@@ -1,0 +1,13 @@
+.container-button{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    padding: 20px  ;
+    background-color: rgb(42, 42, 151);
+}
+h6{
+    color: rgb(235, 201, 12);
+}
+footer p{
+    color: honeydew;
+}

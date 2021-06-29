@@ -1,0 +1,9 @@
+.navbar-brand img{
+    margin-left: 50px;
+}
+ul li{
+    list-style: none;
+}
+.navbar{
+    background-color: rgb(159, 159, 209);
+}
